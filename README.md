@@ -1,8 +1,11 @@
 # Hi there 👋, I'm Tanusree Saha Tanny
 
-🎓 **B.Sc. in Computer Science & Engineering** (SUST) 
+🎓 **B.Sc. in Computer Science & Engineering** (SUST)
+
 🎓 **M.Sc.(ongoing) in Computer Science & Engineering** (BRAC) 
-💻 **Backend Developer | Aspiring Researcher **  
+
+💻 **Backend Developer | Aspiring Researcher ** 
+
 🌱 Always learning and building things that make a difference.
 
 ---
