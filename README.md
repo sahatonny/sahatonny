@@ -4,7 +4,7 @@
 
 🎓 **M.Sc.(ongoing) in Computer Science & Engineering** (BRAC) 
 
-💻 **Backend Developer | Aspiring Researcher ** 
+💻 **Backend Developer | Aspiring Researcher** 
 
 🌱 Always learning and building things that make a difference.
 
