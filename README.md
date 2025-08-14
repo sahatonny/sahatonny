@@ -12,28 +12,28 @@
 
 ## 🔧 Skills & Technologies
 
-- **Programming:** Python, PHP, JavaScript, Java, Kotlin, C++
+- **Programming:** Python, PHP, JavaScript, Java, C++
 - **Backend:** Laravel, Node.js, Express.js
-- **Databases:** MySQL, MongoDB
-- **Data Science & ML:** NumPy, Pandas, Seaborn, Scikit-learn, Deep Learning
-- **Web:** HTML, CSS, Bootstrap
-- **Other Tools:** Git, Postman, Wireshark
+- **Databases:** MySQL, MongoDB, Redis
+- **Data Science & ML:** NumPy, Pandas, Seaborn, Scikit-learn
+- **Web scraping:** beautifulsoap, selenium
+- **Web:** HTML, CSS, Bootstrap, React.js
+- **Other Tools:** Codeblocks, VS Code, Jupyter Notebook, Netbeans, Jetbrains, Git, Github, Postman, Wireshark, Packet Tracer
 
 ---
 
 ## 📌 Experience
 
-- **Backend Developer** (Permanent) – Developed APIs, optimized queries, integrated secure authentication, and maintained large-scale e-learning platform.  
-- **Intern (Software Development)** – Contributed to backend, mobile app integration, and API testing; performed data cleaning and processing.  
+- **Backend Developer** – Developed APIs, optimized queries, integrated secure authentication, and maintained large-scale e-learning platform, contributed to backend, mobile app integration, and API testing; performed data cleaning and processing.  
 - **Research Experience** – Created dataset of online courier service reviews; survey paper on Hamiltonian paths & cycles in vertex-transitive graphs(ongoing), thesis on computer vision.
 
 ---
 
 ## 📫 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/tanusree-saha](https://linkedin.com/in/tanusree-saha)  
-- **Email:** tanusree.saha@example.com  
-- **GitHub:** [github.com/TanusreeSaha](https://github.com/TanusreeSaha)
+- **LinkedIn:** [linkedin.com/in/saha-tonny](https://www.linkedin.com/in/saha-tonny/)  
+- **Email:** tonnysaha9@gmail.com
+- **GitHub:** [github.com/sahatonny](https://github.com/sahatonny)
 
 ---
 
